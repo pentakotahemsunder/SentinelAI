@@ -1,68 +1,96 @@
-# 🚀 Sentinel AI
+# Sentinel AI
 
-## Future Self Agent
+## AI-Powered Future Self Agent
 
-Sentinel AI is an AI-powered career navigation and reasoning agent that helps users identify skill gaps, generate personalized learning roadmaps, and explore future career paths.
+Sentinel AI is an intelligent career reasoning agent that helps users transform their current skills into actionable future career plans. By combining user inputs with Gemini AI, Sentinel generates personalized roadmaps, identifies skill gaps, and simulates future career growth.
 
-### Problem
+---
 
-Many students and professionals know their desired career but do not know:
+## Overview
 
-* What skills they are missing
-* What to learn next
-* Which projects to build
-* How to reach their goals efficiently
+Many students and aspiring professionals have ambitious goals but struggle to answer questions such as:
 
-### Solution
+* What skills am I missing?
+* What should I learn next?
+* How much time will it take?
+* Which projects should I build?
+* What does my future career path look like?
 
-Sentinel AI analyzes a user's:
+Sentinel AI bridges this gap by acting as a personalized career intelligence assistant.
+
+---
+
+## How It Works
+
+Users provide:
 
 * Current Skills
-* Future Goal
-* Available Study Time
+* Future Career Goal
+* Available Study Hours Per Week
 
-and generates:
+Sentinel AI then analyzes the information using Gemini AI and generates:
 
 * Skill Gap Analysis
-* Personalized Roadmap
+* Personalized Learning Roadmap
 * Future Self Simulation
-* Career Path Guidance
+* Recommended Projects
+* Certification Suggestions
+* Career Guidance
 
-### Features
+---
 
-* 🔍 Skill Gap Detection
-* 🧠 Future Self Simulation
-* 📈 Career Roadmap Generation
-* 🎯 Goal-Oriented Learning Plans
+## Features
 
-### Technology Stack
+*  Supports Unlimited Career Goals
+*  Gemini AI Powered Reasoning
+*  Skill Gap Detection
+*  Personalized Learning Roadmaps
+*  Future Self Simulation
+*  Project Recommendations
+*  Certification Guidance
+
+---
+
+## Technology Stack
 
 * Python
 * Flask
 * HTML
 * CSS
+* Google Gemini API
 
-### Example
+---
 
-Input:
+## Example
+
+### Input
 
 Current Skills:
 Python, Linux
 
-Goal:
-Cybersecurity Analyst
+Future Goal:
+Ethical Hacker
 
 Hours Available:
 10 hours/week
 
-Output:
+### Output
 
-* Missing Skills
-* Learning Roadmap
+* Skill Gap Analysis
+* Personalized Roadmap
+* Recommended Projects
 * Future Career Projection
-* Suggested Learning Path
+* Certification Recommendations
 
-### Built For
+---
+
+## Vision
+
+Sentinel AI aims to become a personal career intelligence platform that helps users navigate learning paths, identify opportunities, and make informed decisions about their future.
+
+---
+
+## Built For
 
 Agents League Hackathon 2026
 
